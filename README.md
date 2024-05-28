@@ -1,7 +1,4 @@
 # Assignment5
-
-ÖDEV 5
-
 Oluşturduğunuz product ve order entitylerinde fetch stratejisini belirtiniz. order ve product için ortak bir
 entity oluşturup bu ilişkiyi kuracak bir api yazınız.
 Kullanıcı product apisi ile product oluştursun.
